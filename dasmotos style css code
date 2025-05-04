@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: helvetica;
+}
+
+h1 {
+    Font-size: 100px;
+    color: khaki;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: left;
+}
+strong {
+    color: blue;
+    font-weight: bold;
+}
+
+h2.brushes {
+    background-color: mediumspringgreen;
+}
+
+h2.frames {
+    background-color: lightcoral
+}
+
+h2.paint {
+    background-color: skyblue
+}
+
+header {
+    background-image: url()
+}
