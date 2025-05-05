@@ -1,8 +1,9 @@
 * {
-    margin: 0;
+    margin: 10px;
     padding: 0;
     box-sizing: border-box;
     font-family: helvetica;
+    
 }
 
 h1 {
@@ -10,6 +11,8 @@ h1 {
     color: khaki;
     text-align: center;
     font-weight: bold;
+    background-image: url('./pattern.webp');
+    margin: 100px 0;
 }
 
 h2 {
